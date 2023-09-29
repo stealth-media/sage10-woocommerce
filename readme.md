@@ -12,7 +12,7 @@ I tested a couple and decided to not maintain this package in the future. A bett
 Install the package in your theme folder:
 
 ```bash
-composer require stealth-media/stage-woocommerce
+composer require stealth-media/sage10-woocommerce
 ```
 
 ## Usage
