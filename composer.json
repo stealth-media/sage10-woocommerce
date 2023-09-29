@@ -1,0 +1,17 @@
+{
+  "name": "stealth-media/stage-woocommerce",
+  "description": "WooCommerce integration for Stage & Sage 10",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "STEALTH Media",
+      "email": "thitiwat@stealthmedia.com"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "src/woocommerce.php"
+    ]
+  }
+}
